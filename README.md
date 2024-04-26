@@ -30,6 +30,7 @@ Unfolded the power of deep neural networks.
 
 Improve Machine Learning algorithms by studying underfitting, overfitting, training, validation, n-fold cross validation, testing, and how hyperparameters could improve performance.
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
@@ -51,6 +52,8 @@ Machine Learning
 
 Deep Learning  
    
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 The Skills:
 
@@ -89,3 +92,5 @@ Regressions, clustering, and factor analysis are all disciplines that were inven
    7. Machine Learning 
 
 The final part of the program and what every section has been leading up to is deep learning. Being able to employ machine and deep learning in their work is what often separates a data scientist from a data analyst. This section covers all common machine learning techniques and deep learning methods with TensorFlow. 
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
