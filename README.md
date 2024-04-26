@@ -4,16 +4,27 @@
 
 What I learned?
 The course provided the entire toolbox you need to become a data scientist.
+
 SKILLS: Statistical analysis, Python programming with NumPy, Pandas, Matplotlib, and Seaborn, Advanced statistical analysis, Tableau, Machine Learning with stats models and scikit-learn, Deep learning with TensorFlow
+
 Learned how to pre-process data.
+
 Understand the mathematics behind Machine Learning.
+
 Started coding in Python and learnt how to use it for statistical analysis.
+
 Performed linear and logistic regressions in Python.
+
 Carried out cluster and factor analysis.
+
 Was able to create Machine Learning algorithms in Python, using NumPy, statsmodels and scikit-learn.
+
 Used state-of-the-art Deep Learning frameworks such as Google’s TensorFlow and solving tasks with big data.
+
 Unfolded the power of deep neural networks.
+
 Improve Machine Learning algorithms by studying underfitting, overfitting, training, validation, n-fold cross validation, testing, and how hyperparameters could improve performance.
+
 
 
 
