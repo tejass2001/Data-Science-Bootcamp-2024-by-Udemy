@@ -3,6 +3,7 @@
 
 
 What I learned?
+
 The course provided the entire toolbox you need to become a data scientist.
 
 SKILLS: Statistical analysis, Python programming with NumPy, Pandas, Matplotlib, and Seaborn, Advanced statistical analysis, Tableau, Machine Learning with stats models and scikit-learn, Deep learning with TensorFlow
